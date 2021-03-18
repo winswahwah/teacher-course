@@ -1,0 +1,18 @@
+{
+    "development": {
+        "url": "postgres://postgres@database/codemonday",
+        "dialect": "postgres"
+    },
+    "test": {
+        "url": "postgres://postgres@database/codemonday",
+        "dialect": "postgres"
+    },
+    "staging": {
+        "url": "postgres://postgres@database/codemonday",
+        "dialect": "postgres"
+    },
+    "production": {
+        "url": "postgres://postgres@database/codemonday",
+        "dialect": "postgres"
+    }
+}
